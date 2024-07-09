@@ -1,0 +1,34 @@
+.options {
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .resetButton {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #dc3545;
+    color: #ffffff;
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .resetButton {
+    background-color: #dc3545;
+    color: #ffffff;
+  }
